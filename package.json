@@ -5,6 +5,7 @@
   "style": "dist/css/tabulator.css",
   "main": "dist/js/tabulator.js",
   "module": "dist/js/tabulator_esm.js",
+  "type": "module",
   "sideEffects": [
     "**/*.css",
     "**/*.scss"
